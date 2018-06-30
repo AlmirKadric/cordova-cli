@@ -32,7 +32,7 @@
   "dependencies": {
     "configstore": "2.1.0",
     "cordova-common": "^2.2.0",
-    "cordova-lib": "8.0.0",
+    "cordova-lib": "github:AlmirKadric/cordova-lib#fix/win32_plugin_add",
     "editor": "1.0.0",
     "insight": "0.8.4",
     "loud-rejection": "^1.6.0",
